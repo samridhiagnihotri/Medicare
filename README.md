@@ -1,2 +1,1 @@
-# Medicare
-Hospital management System
+# MERN-HeathCare
